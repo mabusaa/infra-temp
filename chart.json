@@ -1,0 +1,12 @@
+  [
+    {
+      "repo": "https://kubernetes.github.io/ingress-nginx",
+      "name": "ingress-nginx",
+      "version": "1.0.3"
+    },
+    {
+      "repo": "https://charts.bitnami.com/bitnami",
+      "name": "redis",
+      "version": "17.10.2"
+    }
+  ]
